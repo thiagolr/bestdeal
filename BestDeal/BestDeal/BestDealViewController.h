@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface BestDealViewController : UIViewController
+@interface BestDealViewController : UIViewController <UITextFieldDelegate>
 
 @end
